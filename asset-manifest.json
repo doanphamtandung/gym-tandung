@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gym-tandung/static/css/main.7cfd22d6.css",
+    "main.js": "/gym-tandung/static/js/main.c55e9251.js",
+    "index.html": "/gym-tandung/index.html",
+    "main.7cfd22d6.css.map": "/gym-tandung/static/css/main.7cfd22d6.css.map",
+    "main.c55e9251.js.map": "/gym-tandung/static/js/main.c55e9251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfd22d6.css",
+    "static/js/main.c55e9251.js"
+  ]
+}
